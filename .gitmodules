@@ -1,0 +1,3 @@
+[submodule "packages/cra-template-openba"]
+	path = packages/cra-template-openba
+	url = https://github.com/mgatc/cra-template-openba.git
