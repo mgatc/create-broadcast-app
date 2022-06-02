@@ -22,7 +22,7 @@
     "url": "https://github.com/mgatc/create-broadcast-app/issues"
   },
   "homepage": "https://github.com/mgatc/create-broadcast-app#readme",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*",
     "docusaurus/website"
@@ -79,5 +79,8 @@
     "*.{js,json,yml,yaml,css,scss,ts,tsx,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "user": "^0.0.0"
   }
 }
