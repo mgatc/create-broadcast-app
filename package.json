@@ -1,4 +1,27 @@
 {
+  "name": "create-broadcast-app",
+  "description": "Create a NextGen TV broadcast app with one command",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgatc/create-broadcast-app.git"
+  },
+  "keywords": [
+    "nextgentv",
+    "broadcastapp",
+    "ba",
+    "openba"
+  ],
+  "author": "Matt Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgatc/create-broadcast-app/issues"
+  },
+  "homepage": "https://github.com/mgatc/create-broadcast-app#readme",
   "private": true,
   "workspaces": [
     "packages/*",
